@@ -1,2 +1,4 @@
 # hello-world
-Repository1
+Repository
+
+This is my first coding project.
